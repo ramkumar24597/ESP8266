@@ -1,0 +1,2 @@
+
+dofile("checker.lua")
